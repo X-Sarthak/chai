@@ -1,0 +1,21 @@
+{
+  "name": "chai",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "env": "^0.0.2",
+    "express": "^4.18.3",
+    "node": "^21.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
